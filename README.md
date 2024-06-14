@@ -19,3 +19,5 @@
 - - Dense: Adicionei uma camada densa com 8 unidades e função de ativação ReLU, seguida de uma camada de saída com função de ativação linear para prever valores contínuos.
 - Compilação: O modelo foi compilado com a função de perda Mean Squared Error e o otimizador Adam com uma taxa de aprendizado de 0.0001.
 - Treinamento: Treinei o modelo por 10 épocas com validação cruzada, utilizando ModelCheckpoint para salvar o melhor modelo baseado na métrica de Root Mean Squared Error.
+
+ ![imagem](https://github.com/Joangopa/predicao_temp_Sequencial/blob/main/test.png)
