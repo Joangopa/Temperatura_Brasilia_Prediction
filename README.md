@@ -2,6 +2,8 @@
 
  Durante este estudo, analisei uma série temporal de dados climáticos de Brasília, abrangendo os últimos 5 anos.
 
+ ![imagem](https://github.com/Joangopa/predicao_temp_Sequencial/blob/main/serie.png)
+
  ### 🔍 Objetivo: 
  Utilizar um modelo sequencial com Keras para prever padrões climáticos futuros com base em dados históricos.
 
