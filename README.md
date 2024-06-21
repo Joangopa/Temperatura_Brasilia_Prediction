@@ -2,7 +2,7 @@
 
  Durante este estudo, analisei uma série temporal de dados climáticos de Brasília, abrangendo os últimos 5 anos.
 
- ![imagem](https://github.com/Joangopa/predicao_temp_Sequencial/blob/main/serie.png)
+ ![imagem](https://github.com/Joangopa/predicao_temp_Sequencial/blob/main/imagens/serie.png)
 
  ### 🔍 Objetivo: 
  Utilizar um modelo sequencial com Keras para prever padrões climáticos futuros com base em dados históricos.
@@ -20,4 +20,4 @@
 - Compilação: O modelo foi compilado com a função de perda Mean Squared Error e o otimizador Adam com uma taxa de aprendizado de 0.0001.
 - Treinamento: Treinei o modelo por 10 épocas com validação cruzada, utilizando ModelCheckpoint para salvar o melhor modelo baseado na métrica de Root Mean Squared Error.
 
- ![imagem](https://github.com/Joangopa/predicao_temp_Sequencial/blob/main/test.png)
+ ![imagem](https://github.com/Joangopa/predicao_temp_Sequencial/blob/main/imagens/test.png)
