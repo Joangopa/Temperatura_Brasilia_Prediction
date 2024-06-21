@@ -21,3 +21,8 @@
 - Treinamento: Treinei o modelo por 10 épocas com validação cruzada, utilizando ModelCheckpoint para salvar o melhor modelo baseado na métrica de Root Mean Squared Error.
 
  ![imagem](https://github.com/Joangopa/predicao_temp_Sequencial/blob/main/imagens/test.png)
+
+
+A análise da série temporal se encontra em https://github.com/Joangopa/Temperatura_Brasilia_Prediction/blob/main/analise_dados.ipynb
+
+Os modelos preditivos https://github.com/Joangopa/Temperatura_Brasilia_Prediction/blob/main/modelo_pred.ipynb.
